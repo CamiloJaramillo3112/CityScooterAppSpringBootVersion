@@ -1,4 +1,4 @@
-package com.cesde.cityscooterapp.services;
+package com.cesde.cityscooterapp.application.inputport;
 
 public interface HelloWorldService {
 
